@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 - 📃 I blog here: [https://hondanho.wiki](https://hondanho.wiki/)
-- 💬 Ask me about: .NET, Architecture, Microservices, Performance, DevOps, DDD
+- 💬 Ask me about: .NET, Architecture, Microservices, Performance, DevOps, DDD, Database
 - 🦸🏻 I’m looking to collaborate on: .NET projects
 
 </br>
